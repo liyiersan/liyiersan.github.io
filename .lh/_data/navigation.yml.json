@@ -1,0 +1,18 @@
+{
+    "sourceFile": "_data/navigation.yml",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1708872051547,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1708872051547,
+            "name": "Commit-0",
+            "content": "# main links links\r\nmain:\r\n  - title: \"About Me\"\r\n    url: \"/#about-me\"\r\n\r\n  - title: \"News\"\r\n    url: \"/#-news\"\r\n\r\n  - title: \"Publications\"\r\n    url: \"/#-publications\"\r\n\r\n  # - title: \"Honors and Awards\"\r\n  #   url: \"/#-honors-and-awards\"\r\n\r\n  - title: \"Educations\"\r\n    url: \"/#-educations\"\r\n\r\n  # - title: \"Invited Talks\"\r\n  #   url: \"/#-invited-talks\"\r\n\r\n  # - title: \"Internships\"\r\n  #   url: \"/#-internships\"\r\n"
+        }
+    ]
+}
