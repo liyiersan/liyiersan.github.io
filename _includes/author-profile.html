@@ -31,9 +31,7 @@
       {% if author.email %}
         <!-- <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li> -->
         <li>
-          <a href="mailto:{{ author.email }}">
-            <i class="fas fa-fw fa-envelope" aria-hidden="true" style="color: #007bff; margin-right: 5px;"></i>
-            <span style="font-size: 0.8em;">{{ author.email }}</span>
+          <a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"> {{ author.email }} </i>
           </a>
         </li>        
       {% endif %}
