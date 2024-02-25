@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 4,
+            "activePatchIndex": 5,
             "patches": [
                 {
                     "date": 1708883512414,
@@ -24,6 +24,10 @@
                 {
                     "date": 1708884004318,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -29,48 +29,9 @@\n \r\n     {% include scripts.html %}\r\n     <div id=\"footer\">\r\n       <div id=\"footer-text\"></div>\r\n-    </div>\r\n-    <script type=\"text/javascript\" id=\"clustrmaps\" src=\"//clustrmaps.com/map_v2.js?d=IUr6GY8LzuKD_Na-rMOhnWgGhrfyOb9kZfFx_7yTpgE&cl=ffffff&w=a\"></script>\r\n+      <script type=\"text/javascript\" id=\"clustrmaps\" src=\"//clustrmaps.com/map_v2.js?d=IUr6GY8LzuKD_Na-rMOhnWgGhrfyOb9kZfFx_7yTpgE&cl=ffffff&w=a\"></script>\r\n       <p><center> &copy; Qian Zhou </center></p>\r\n     </div>\r\n   </body>\r\n </html>\r\n----\r\n-layout: compress\r\n----\r\n-\r\n-<!doctype html>\r\n-<html lang=\"en\" class=\"no-js\">\r\n-  <head>\r\n-    {% include head.html %}\r\n-    {% include head/custom.html %}\r\n-  </head>\r\n-\r\n-  <body>\r\n-\r\n-    {% include browser-upgrade.html %}\r\n-    {% include masthead.html %}\r\n-\r\n-    <div id=\"main\" role=\"main\">\r\n-      {% include sidebar.html %}\r\n-    \r\n-      <article class=\"page\" itemscope itemtype=\"http://schema.org/CreativeWork\">\r\n-        {% if page.title %}<meta itemprop=\"headline\" content=\"{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}\">{% endif %}\r\n-        <div class=\"page__inner-wrap\">\r\n-          <section class=\"page__content\" itemprop=\"text\">\r\n-            {{ content }}\r\n-          </section>\r\n-        </div>\r\n-      </article>\r\n-    </div>\r\n-\r\n-    {% include scripts.html %}\r\n-    <div id=\"footer\">\r\n-      <div id=\"footer-text\"></div>\r\n-    </div>\r\n-    <script type=\"text/javascript\" id=\"mapmyvisitors\" src=\"//mapmyvisitors.com/map.js?d=8Nh7N784x2Ce2BemXBV7mfj6m65vsl09KF-JXYHuHxw&cl=ffffff&w=a\"></script>\r\n-      <p><center> &copy; Fangqi Zhu </center></p>\r\n-    </div>\r\n-  </body>\r\n-</html>\r\n"
+                },
+                {
+                    "date": 1708884254180,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -27,11 +27,11 @@\n       </article>\r\n     </div>\r\n \r\n     {% include scripts.html %}\r\n-    <div id=\"footer\">\r\n+    <!-- <div id=\"footer\">\r\n       <div id=\"footer-text\"></div>\r\n       <script type=\"text/javascript\" id=\"clustrmaps\" src=\"//clustrmaps.com/map_v2.js?d=IUr6GY8LzuKD_Na-rMOhnWgGhrfyOb9kZfFx_7yTpgE&cl=ffffff&w=a\"></script>\r\n       <p><center> &copy; Qian Zhou </center></p>\r\n-    </div>\r\n+    </div> -->\r\n   </body>\r\n </html>\r\n"
                 }
             ],
             "date": 1708883512414,
