@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student at [School of Computer Science, Wuhan University](https://cs.whu.edu.cn/), supervised by [Prof.Zhongyuan Wang](https://cs.whu.edu.cn/info/1019/2495.htm). Previously, I received Bachelor's Degree and Master's Degree under the guidance of [Prof.Hua Zou](https://cs.whu.edu.cn/info/1019/2887.htm) at [School of Computer Science, Wuhan University](https://cs.whu.edu.cn/). 
+I am currently pursuing my Ph.D. at at [School of Computer Science, Wuhan University](https://cs.whu.edu.cn/), advised by [Prof.Zhongyuan Wang](https://cs.whu.edu.cn/info/1019/2495.htm). My academic journey began at the same institution, where I earned my Bachelor's and Master's degrees, guided by [Prof.Hua Zou](https://cs.whu.edu.cn/info/1019/2887.htm). 
 
-My research interest includes machine learning and deep learning with focus on gait recognition and medical image analysis (image gerneration, disease recognition, and medical treatment planing). I am also instrested in multi-modal learning, long-tailed classification, few-shot learning, and self-supervised learning. Besides, I have some research experience in the field of time series data processing. 
+My research primarily focuses on machine learning and deep learning, with a special emphasis on gait recognition, medical image analysis (including image generation, disease identification, and medical treatment planning). Additionally, I am interested in multi-modal learning, long-tailed classification, few-shot learning, self-supervised learning, and time series data processing.   
 
 
 # 🔥 News
