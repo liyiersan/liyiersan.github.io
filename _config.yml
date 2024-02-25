@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Qian Zhou's Homepage"
+title                    : "Qian Zhou (周潜)"
 description              : "Ph.D. student. Focusing on gait recognition, medical image analysis, and time series data processing."
 repository               : "liyiersan/liyiersan.github.io"
 google_scholar_stats_use_cdn : true
