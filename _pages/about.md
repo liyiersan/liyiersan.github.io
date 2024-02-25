@@ -48,7 +48,7 @@ My research interest includes machine learning and deep learning with focus on g
 
 **Qian Zhou**, Hua Zou, Fei Luo, Yishi Qiu
 
-**<font color=blue>BIBM 2023 (Poster) </font>** \| [[**Paper**]](https://ieeexplore.ieee.org/abstract/document/10385746/)
+**<font color=blue>BIBM 2023 (Regular Paper) </font>** \| [[**Paper**]](https://ieeexplore.ieee.org/abstract/document/10385746/)
 </div>
 </div>
 
@@ -59,7 +59,7 @@ My research interest includes machine learning and deep learning with focus on g
 
 **Qian Zhou**, Hua Zou, Haifeng Jiang, Yong Wang
 
-**<font color=blue>MICCAI 2023 (Poster) </font>** \| [[**Paper**]](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_69)
+**<font color=blue>MICCAI 2023 (Poster) </font>** \| [[**Paper**]](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_69)  [[**Poster**]](resources/MICCAI_2023_Poster.pdf) 
 </div>
 </div>
 
@@ -70,7 +70,7 @@ My research interest includes machine learning and deep learning with focus on g
 
 **Qian Zhou**, Hua Zou, Zhongyuan Wang
 
-**<font color=blue>MICCAI 2022 (Poster) </font>** \| [[**Paper**]](https://link.springer.com/chapter/10.1007/978-3-031-16434-7_68)
+**<font color=blue>MICCAI 2022 (Poster) </font>** \| [[**Paper**]](https://link.springer.com/chapter/10.1007/978-3-031-16434-7_68)  [[**Poster**]](resources/MICCAI_2022_Poster.pdf) 
 </div>
 </div>
 
