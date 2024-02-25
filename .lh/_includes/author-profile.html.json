@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 12,
+            "activePatchIndex": 13,
             "patches": [
                 {
                     "date": 1708882923325,
@@ -56,6 +56,10 @@
                 {
                     "date": 1708887583422,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -29,8 +29,14 @@\n         <li><a href=\"{{ author.uri }}\"><i class=\"fas fa-fw fa-link\" aria-hidden=\"true\"></i> Website</a></li>\r\n       {% endif %}\r\n       {% if author.email %}\r\n         <!-- <li><a href=\"mailto:{{ author.email }}\"><i class=\"fas fa-fw fa-envelope\" aria-hidden=\"true\"></i> Email</a></li> -->\r\n+        <li>\r\n+          <a href=\"mailto:{{ author.email }}\" style=\"text-decoration: none; color: #333; background-color: #f2f2f2; border: 1px solid #ddd; padding: 5px 10px; border-radius: 5px; font-family: Arial, sans-serif; display: inline-flex; align-items: center;\">\r\n+            <i class=\"fas fa-fw fa-envelope\" aria-hidden=\"true\" style=\"color: #007bff; margin-right: 5px;\"></i>\r\n+            <span style=\"font-size: 0.8em;\">{{ author.email }}</span>\r\n+          </a>\r\n+        </li>        \r\n       {% endif %}\r\n       {% if author.keybase %}\r\n         <li><a href=\"https://keybase.io/{{ author.keybase }}\"><i class=\"fas fa-fw fa-key\" aria-hidden=\"true\"></i> Keybase</a></li>\r\n       {% endif %}\r\n"
+                },
+                {
+                    "date": 1708887739398,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -30,9 +30,9 @@\n       {% endif %}\r\n       {% if author.email %}\r\n         <!-- <li><a href=\"mailto:{{ author.email }}\"><i class=\"fas fa-fw fa-envelope\" aria-hidden=\"true\"></i> Email</a></li> -->\r\n         <li>\r\n-          <a href=\"mailto:{{ author.email }}\" style=\"text-decoration: none; color: #333; background-color: #f2f2f2; border: 1px solid #ddd; padding: 5px 10px; border-radius: 5px; font-family: Arial, sans-serif; display: inline-flex; align-items: center;\">\r\n+          <a href=\"mailto:{{ author.email }}\">\r\n             <i class=\"fas fa-fw fa-envelope\" aria-hidden=\"true\" style=\"color: #007bff; margin-right: 5px;\"></i>\r\n             <span style=\"font-size: 0.8em;\">{{ author.email }}</span>\r\n           </a>\r\n         </li>        \r\n"
                 }
             ],
             "date": 1708882923325,
