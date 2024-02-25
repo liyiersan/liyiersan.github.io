@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D student at [School of Computer Science, Wuhan University](https://cs.whu.edu.cn/), supervised by [Prof.Zhongyuan Wang](https://cs.whu.edu.cn/info/1019/2495.htm). Previously, I received Bachelor's Degree and Master's Degree at [School of Computer Science, Wuhan University]  under the guidance of [Prof.Hua Zou](https://cs.whu.edu.cn/info/1019/2887.htm) at . 
+I am currently a Ph.D. student at [School of Computer Science, Wuhan University](https://cs.whu.edu.cn/), supervised by [Prof.Zhongyuan Wang](https://cs.whu.edu.cn/info/1019/2495.htm). Previously, I received Bachelor's Degree and Master's Degree under the guidance of [Prof.Hua Zou](https://cs.whu.edu.cn/info/1019/2887.htm) at [School of Computer Science, Wuhan University](https://cs.whu.edu.cn/). 
 
 My research interest includes machine learning and deep learning with focus on gait recognition and medical image analysis (image gerneration, disease recognition, and medical treatment planing). I am also instrested in multi-modal learning, long-tailed classification, few-shot learning, and self-supervised learning. Besides, I have some research experience in the field of time series data processing. 
 
 
 # 🔥 News
-- *2023.12*: &nbsp;🎉🎉 One papar is accepted by Information.  
+- *2023.12*: &nbsp;🎉🎉 One papar is accepted by Information Fusion.  
 - *2023.10*: &nbsp;🎉🎉 One papar is accepted by BIBM 2023.  
 - *2023.06*: &nbsp;🎉🎉 One papar is accepted by MICCAI 2023.  
 - *2022.06*: &nbsp;🎉🎉 One papar is accepted by MICCAI 2022. 
@@ -79,8 +79,9 @@ My research interest includes machine learning and deep learning with focus on g
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2017.09 - 2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - Now*, Ph.D. Student, Computer Science and Technology, School of Computer Science, Wuhan University (WHU).
+- *2021.09 - 2023.06*, Master of Engineering, Computer Technology, School of Computer Science, Wuhan University (WHU).
+- *2017.09 - 2021.06*, Bachelor of Engineering, Software Engneering, School of Computer Science, Wuhan University (WHU).
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

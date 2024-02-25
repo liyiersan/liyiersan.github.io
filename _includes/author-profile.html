@@ -124,7 +124,14 @@
         <a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.email %}
-        <a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>
+        <!-- <a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a> -->
+        <li>
+          <a href="mailto:{{ author.email }}" style="text-decoration: none; color: #333; background-color: #f2f2f2; border: 1px solid #ddd; padding: 5px 10px; border-radius: 5px; font-family: Arial, sans-serif; display: inline-flex; align-items: center;">
+            <i class="fas fa-fw fa-envelope" aria-hidden="true" style="color: #007bff; margin-right: 5px;"></i>
+            <span style="font-size: 0.8em;">{{ author.email }}</span>
+          </a>
+        </li>
+        
       {% endif %}
       {% if author.keybase %}
         <a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i></a>
