@@ -30,7 +30,7 @@ My research interest includes machine learning and deep learning with focus on g
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion</div><img src='images/paper/Information Fusion_2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Uncertainty-aware incomplete multimodal fusion for few-shot Central Retinal Artery Occlusion classification](https://www.sciencedirect.com/science/article/pii/S156625352300516X)
@@ -41,7 +41,7 @@ My research interest includes machine learning and deep learning with focus on g
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2023</div><img src='images/paper/BIBM_2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RHViT: A Robust Hierarchical Transformer for 3D Multimodal Brain Tumor Segmentation Using Biased Masked Image Modeling Pre-training](https://ieeexplore.ieee.org/abstract/document/10385746/)
@@ -52,7 +52,7 @@ My research interest includes machine learning and deep learning with focus on g
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2023</div><img src='images/paper/MICCAI_2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Incomplete Multimodal Learning for Visual Acuity Prediction After Cataract Surgery Using Masked Self-Attention](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_69)
@@ -63,7 +63,7 @@ My research interest includes machine learning and deep learning with focus on g
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/paper/MICCAI_2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Long-Tailed Multi-label Retinal Diseases Recognition via Relational Learning and Knowledge Distillation](https://link.springer.com/chapter/10.1007/978-3-031-16434-7_68)
