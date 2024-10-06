@@ -37,7 +37,7 @@ My research focuses on machine learning and deep learning, particularly in gait 
 
 **Qian Zhou**, Hua Zou, Zhongyuan Wang, Haifeng Jiang, Yong Wang
 
-**<font color=blue>MICCAI 2024 (Poster) </font>** \| [[**Paper**]](https://link.springer.com/chapter/10.1007/978-3-031-72378-0_70)  [[**Poster**]](resources/MICCAI_2024_Poster.pdf) 
+**<font color=blue>MICCAI 2024 (Poster) </font>** \| [[**Paper**]](https://link.springer.com/chapter/10.1007/978-3-031-72378-0_70)  [[**Poster**]](resources/MICCAI_2024_Poster.pdf) [[**Code**]](https://github.com/liyiersan/IOL) 
 </div>
 </div>
 
@@ -71,7 +71,7 @@ My research focuses on machine learning and deep learning, particularly in gait 
 
 **Qian Zhou**, Hua Zou, Haifeng Jiang, Yong Wang
 
-**<font color=blue>MICCAI 2023 (Poster) </font>** \| [[**Paper**]](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_69)  [[**Poster**]](resources/MICCAI_2023_Poster.pdf) 
+**<font color=blue>MICCAI 2023 (Poster) </font>** \| [[**Paper**]](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_69)  [[**Poster**]](resources/MICCAI_2023_Poster.pdf) [[**Code**]](https://github.com/liyiersan/MSA) 
 </div>
 </div>
 
