@@ -23,12 +23,24 @@ My research focuses on machine learning and deep learning, particularly in gait 
 
 
 # 🔥 News
-- *2023.12*: &nbsp;🎉🎉 One papar is accepted by Information Fusion.  
-- *2023.10*: &nbsp;🎉🎉 One papar is accepted by BIBM 2023.  
-- *2023.06*: &nbsp;🎉🎉 One papar is accepted by MICCAI 2023.  
-- *2022.06*: &nbsp;🎉🎉 One papar is accepted by MICCAI 2022. 
+- *2024.06*: &nbsp;🎉🎉 One papar was accepted by MICCAI 2024.  
+- *2023.12*: &nbsp;🎉🎉 One papar was accepted by Information Fusion.  
+- *2023.10*: &nbsp;🎉🎉 One papar was accepted by BIBM 2023.  
+- *2023.06*: &nbsp;🎉🎉 One papar was accepted by MICCAI 2023.  
+- *2022.06*: &nbsp;🎉🎉 One papar was accepted by MICCAI 2022. 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/paper/MICCAI_2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Refining Intraocular Lens Power Calculation: AMulti-modal Framework Using Cross-layerAttention and Effective Channel Attention](https://link.springer.com/chapter/10.1007/978-3-031-72378-0_70)
+
+**Qian Zhou**, Hua Zou, Zhongyuan Wang
+
+**<font color=blue>MICCAI 2024 (Poster) </font>** \| [[**Paper**]](https://link.springer.com/chapter/10.1007/978-3-031-72378-0_70)  [[**Poster**]](resources/MICCAI_2024_Poster.pdf) 
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion</div><img src='images/paper/Information Fusion_2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
