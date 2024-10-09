@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing my Ph.D. at [School of Computer Science, Wuhan University](https://cs.whu.edu.cn/), advised by [Prof.Zhongyuan Wang](https://cs.whu.edu.cn/info/1019/2495.htm). My academic journey began at the same institution, where I obtained my Bachelor's and Master's degrees, guided by [Prof.Hua Zou](https://cs.whu.edu.cn/info/1019/2887.htm). 
+I am currently pursuing my Ph.D. at [School of Computer Science, Wuhan University](https://cs.whu.edu.cn/), advised by [Prof.Zhongyuan Wang](https://cs.whu.edu.cn/info/1019/2495.htm). My academic journey began at the same institution, where I obtained my Bachelor's and Master's degrees, guided by [Prof.Hua Zou](https://cs.whu.edu.cn/info/1019/2887.htm). My CV can be found [here](resources/CV-Qian Zhou.pdf).
 
-My research focuses on machine learning and deep learning, particularly in gait recognition and medical imaging (including image generation, disease classification, and medical treatment planning). I am also interested in multi-modal learning, long-tailed classification, few-shot learning, self-supervised learning, and time series data processing.   
+My research focuses on machine learning and deep learning, particularly in gait recognition and medical imaging (including image generation, disease classification, and medical treatment planning). I am also interested in multi-modal learning, long-tailed classification, few-shot learning, self-supervised learning, time series data processing, and road network representation learning.   
 
 
 # 🔥 News
