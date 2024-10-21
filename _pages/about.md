@@ -33,7 +33,7 @@ My research focuses on machine learning and deep learning, particularly in gait 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/paper/MICCAI_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Refining Intraocular Lens Power Calculation: AMulti-modal Framework Using Cross-layerAttention and Effective Channel Attention](https://link.springer.com/chapter/10.1007/978-3-031-72378-0_70)
+[Refining Intraocular Lens Power Calculation: A Multi-modal Framework Using Cross-layerAttention and Effective Channel Attention](https://link.springer.com/chapter/10.1007/978-3-031-72378-0_70)
 
 **Qian Zhou**, Hua Zou, Zhongyuan Wang, Haifeng Jiang, Yong Wang
 
