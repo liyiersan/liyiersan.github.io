@@ -38,7 +38,7 @@ My research focuses on machine learning and deep learning, particularly in gait 
 
 **Qian Zhou**, Huanrou Ding, Chengzhe Li, Hua Zou, Chao Zhang, Ting Zhang
 
-**<font color=blue>Expert Systems with Applications </font>** \| [[**Paper**]]([https://link.springer.com/chapter/10.1007/978-3-031-72378-0_70](https://www.sciencedirect.com/science/article/pii/S0957417425030726))  [[**Code**]]([https://github.com/liyiersan/IOL](https://github.com/liyiersan/cig_rec)) 
+**<font color=blue>Expert Systems with Applications </font>** \| [[**Paper**]](https://www.sciencedirect.com/science/article/pii/S0957417425030726)  [[**Code**]](https://github.com/liyiersan/cig_rec) 
 </div>
 </div>
 
