@@ -23,6 +23,7 @@ My research focuses on machine learning and deep learning, particularly in gait 
 
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉 One papar was accepted by Expert Systems with Applications. 
 - *2024.06*: &nbsp;🎉🎉 One papar was accepted by MICCAI 2024.  
 - *2023.12*: &nbsp;🎉🎉 One papar was accepted by Information Fusion.  
 - *2023.10*: &nbsp;🎉🎉 One papar was accepted by BIBM 2023.  
@@ -30,6 +31,18 @@ My research focuses on machine learning and deep learning, particularly in gait 
 - *2022.06*: &nbsp;🎉🎉 One papar was accepted by MICCAI 2022. 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Expert Systems with Applications</div><img src='images/paper/ESWA_2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Region-aware metric learning for few-shot detection of counterfeit cigarettes from packaging images](https://www.sciencedirect.com/science/article/pii/S0957417425030726)
+
+**Qian Zhou**, Huanrou Ding, Chengzhe Li, Hua Zou, Chao Zhang, Ting Zhang
+
+**<font color=blue>Expert Systems with Applications </font>** \| [[**Paper**]]([https://link.springer.com/chapter/10.1007/978-3-031-72378-0_70](https://www.sciencedirect.com/science/article/pii/S0957417425030726))  [[**Code**]]([https://github.com/liyiersan/IOL](https://github.com/liyiersan/cig_rec)) 
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/paper/MICCAI_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
