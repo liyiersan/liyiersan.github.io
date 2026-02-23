@@ -23,6 +23,7 @@ My research focuses on machine learning and deep learning, particularly in gait 
 
 
 # 🔥 News
+- *2025.10*: &nbsp;🎉🎉 Two papars were accepted by BIBM 2025.
 - *2025.08*: &nbsp;🎉🎉 One papar was accepted by Expert Systems with Applications. 
 - *2024.06*: &nbsp;🎉🎉 One papar was accepted by MICCAI 2024.  
 - *2023.12*: &nbsp;🎉🎉 One papar was accepted by Information Fusion.  
@@ -31,7 +32,32 @@ My research focuses on machine learning and deep learning, particularly in gait 
 - *2022.06*: &nbsp;🎉🎉 One papar was accepted by MICCAI 2022. 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Expert Systems with Applications</div><img src='images/paper/ESWA_2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2025</div><img src='images/paper/BIBM_2025_01.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Anatomy-Aware Adaptation of Pre-Trained Models for Medical Difference Visual Question Answering](https://ieeexplore.ieee.org/abstract/document/11356508/)
+
+**Qian Zhou**, Yuhan Gao, Hua Zou, Fei Luo, Xiwen Bai
+
+**<font color=blue>BIBM 2025 (Regular Paper) </font>** \| [[**Paper**]](https://ieeexplore.ieee.org/abstract/document/11356508/)  [[**Code**]](https://github.com/liyiersan/Med-Diff-VQA) 
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2025</div><img src='images/paper/BIBM_2025_02.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MSFP-Net: Multi-Scale Fusion of SAM-Derived Priors for Medical Image Segmentation](https://ieeexplore.ieee.org/abstract/document/11356180)
+
+**Yaxin Hu**, **Qian Zhou**, Hua Zou, Fei Luo, Yuxuan Yang
+
+**<font color=blue>BIBM 2025 (Regular Paper) </font>** \| [[**Paper**]](https://ieeexplore.ieee.org/abstract/document/11356180)
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA</div><img src='images/paper/ESWA_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Region-aware metric learning for few-shot detection of counterfeit cigarettes from packaging images](https://www.sciencedirect.com/science/article/pii/S0957417425030726)
