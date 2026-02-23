@@ -37,7 +37,7 @@ My research focuses on machine learning and deep learning, particularly in gait 
 
 [Anatomy-Aware Adaptation of Pre-Trained Models for Medical Difference Visual Question Answering](https://ieeexplore.ieee.org/abstract/document/11356508/)
 
-**Qian Zhou**, Yuhan Gao, Hua Zou, Fei Luo, Xiwen Bai
+**Qian Zhou**, Yuhan Gao, Hua Zou\*, Fei Luo\*, Xiwen Bai
 
 **<font color=blue>BIBM 2025 (Regular Paper) </font>** \| [[**Paper**]](https://ieeexplore.ieee.org/abstract/document/11356508/)  [[**Code**]](https://github.com/liyiersan/Med-Diff-VQA) 
 </div>
@@ -49,7 +49,7 @@ My research focuses on machine learning and deep learning, particularly in gait 
 
 [MSFP-Net: Multi-Scale Fusion of SAM-Derived Priors for Medical Image Segmentation](https://ieeexplore.ieee.org/abstract/document/11356180)
 
-**Yaxin Hu**, **Qian Zhou**, Hua Zou, Fei Luo, Yuxuan Yang
+Yaxin Hu†, **Qian Zhou†**, Hua Zou\*, Fei Luo\*, Yuxuan Yang
 
 **<font color=blue>BIBM 2025 (Regular Paper) </font>** \| [[**Paper**]](https://ieeexplore.ieee.org/abstract/document/11356180)
 </div>
@@ -62,7 +62,7 @@ My research focuses on machine learning and deep learning, particularly in gait 
 
 [Region-aware metric learning for few-shot detection of counterfeit cigarettes from packaging images](https://www.sciencedirect.com/science/article/pii/S0957417425030726)
 
-**Qian Zhou**, Huanrou Ding, Chengzhe Li, Hua Zou, Chao Zhang, Ting Zhang
+**Qian Zhou**, Huanrou Ding, Chengzhe Li, Hua Zou\*, Chao Zhang, Ting Zhang
 
 **<font color=blue>Expert Systems with Applications </font>** \| [[**Paper**]](https://www.sciencedirect.com/science/article/pii/S0957417425030726)  [[**Code**]](https://github.com/liyiersan/cig_rec) 
 </div>
@@ -74,7 +74,7 @@ My research focuses on machine learning and deep learning, particularly in gait 
 
 [Refining Intraocular Lens Power Calculation: A Multi-modal Framework Using Cross-layerAttention and Effective Channel Attention](https://link.springer.com/chapter/10.1007/978-3-031-72378-0_70)
 
-**Qian Zhou**, Hua Zou, Zhongyuan Wang, Haifeng Jiang, Yong Wang
+**Qian Zhou**, Hua Zou\*, Zhongyuan Wang, Haifeng Jiang, Yong Wang
 
 **<font color=blue>MICCAI 2024 (Poster) </font>** \| [[**Paper**]](https://link.springer.com/chapter/10.1007/978-3-031-72378-0_70)  [[**Poster**]](resources/MICCAI_2024_Poster.pdf) [[**Code**]](https://github.com/liyiersan/IOL) 
 </div>
@@ -86,7 +86,7 @@ My research focuses on machine learning and deep learning, particularly in gait 
 
 [Uncertainty-aware incomplete multimodal fusion for few-shot Central Retinal Artery Occlusion classification](https://www.sciencedirect.com/science/article/pii/S156625352300516X)
 
-**Qian Zhou**, Ting Chen, Hua Zou, Xuan Xiao
+**Qian Zhou**, Ting Chen, Hua Zou\*, Xuan Xiao\*
 
 **<font color=blue>Information Fusion </font>** \| [[**Paper**]](https://www.sciencedirect.com/science/article/pii/S156625352300516X)
 </div>
@@ -97,7 +97,7 @@ My research focuses on machine learning and deep learning, particularly in gait 
 
 [RHViT: A Robust Hierarchical Transformer for 3D Multimodal Brain Tumor Segmentation Using Biased Masked Image Modeling Pre-training](https://ieeexplore.ieee.org/abstract/document/10385746/)
 
-**Qian Zhou**, Hua Zou, Fei Luo, Yishi Qiu
+**Qian Zhou**, Hua Zou\*, Fei Luo\*, Yishi Qiu
 
 **<font color=blue>BIBM 2023 (Regular Paper) </font>** \| [[**Paper**]](https://ieeexplore.ieee.org/abstract/document/10385746/)
 </div>
