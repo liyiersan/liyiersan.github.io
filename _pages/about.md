@@ -108,7 +108,7 @@ Yaxin Hu†, **Qian Zhou†**, Hua Zou\*, Fei Luo\*, Yuxuan Yang
 
 [Incomplete Multimodal Learning for Visual Acuity Prediction After Cataract Surgery Using Masked Self-Attention](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_69)
 
-**Qian Zhou**, Hua Zou, Haifeng Jiang, Yong Wang
+**Qian Zhou**, Hua Zou\*, Haifeng Jiang, Yong Wang
 
 **<font color=blue>MICCAI 2023 (Poster) </font>** \| [[**Paper**]](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_69)  [[**Poster**]](resources/MICCAI_2023_Poster.pdf) [[**Code**]](https://github.com/liyiersan/MSA) 
 </div>
@@ -119,7 +119,7 @@ Yaxin Hu†, **Qian Zhou†**, Hua Zou\*, Fei Luo\*, Yuxuan Yang
 
 [Long-Tailed Multi-label Retinal Diseases Recognition via Relational Learning and Knowledge Distillation](https://link.springer.com/chapter/10.1007/978-3-031-16434-7_68)
 
-**Qian Zhou**, Hua Zou, Zhongyuan Wang
+**Qian Zhou**, Hua Zou\*, Zhongyuan Wang
 
 **<font color=blue>MICCAI 2022 (Poster) </font>** \| [[**Paper**]](https://link.springer.com/chapter/10.1007/978-3-031-16434-7_68)  [[**Poster**]](resources/MICCAI_2022_Poster.pdf) 
 </div>
