@@ -49,7 +49,7 @@ My research focuses on machine learning and deep learning, particularly in gait 
 
 [MSFP-Net: Multi-Scale Fusion of SAM-Derived Priors for Medical Image Segmentation](https://ieeexplore.ieee.org/abstract/document/11356180)
 
-Yaxin Hu†, **Qian Zhou†**, Hua Zou\*, Fei Luo\*, Yuxuan Yang
+Yaxin Hu$^†$, **Qian Zhou$^†$**, Hua Zou\*, Fei Luo\*, Yuxuan Yang
 
 **<font color=blue>BIBM 2025 (Regular Paper) </font>** \| [[**Paper**]](https://ieeexplore.ieee.org/abstract/document/11356180)
 </div>
