@@ -23,7 +23,9 @@ My research focuses on machine learning and deep learning, particularly in gait 
 
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉 One papars was accepted by FG 2026.
 - *2025.10*: &nbsp;🎉🎉 Two papars were accepted by BIBM 2025.
+- *2025.10*: &nbsp;🎉🎉 One papars was accepted by ACM MM Asia 2025.
 - *2025.08*: &nbsp;🎉🎉 One papar was accepted by Expert Systems with Applications. 
 - *2024.06*: &nbsp;🎉🎉 One papar was accepted by MICCAI 2024.  
 - *2023.12*: &nbsp;🎉🎉 One papar was accepted by Information Fusion.  
@@ -31,7 +33,18 @@ My research focuses on machine learning and deep learning, particularly in gait 
 - *2023.06*: &nbsp;🎉🎉 One papar was accepted by MICCAI 2023.  
 - *2022.06*: &nbsp;🎉🎉 One papar was accepted by MICCAI 2022. 
 
-# 📝 Publications 
+# 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FG 2026</div><img src='images/paper/FG_2026.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GaitProtector: Impersonation-Driven Gait De-Identification via Training-Free Diffusion Latent Optimization](https://arxiv.org/abs/2605.12431)
+
+Huiran Duan$^†$, **Qian Zhou$^†$**, Zhongliang Guo, Junhao Dong, Yuqi Li, Guoying Zhao, Yingli Tian\*
+
+**<font color=blue>FG 2026 (Poster) </font>** \| [[**Paper**]](https://arxiv.org/abs/2605.12431) 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2025</div><img src='images/paper/BIBM_2025_01.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -55,6 +68,17 @@ Yaxin Hu$^†$, **Qian Zhou$^†$**, Hua Zou\*, Fei Luo\*, Yuxuan Yang
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM Asia 2025</div><img src='images/paper/ACM_MM_Asia_2025.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Robust 3D CNN with Pyramidal Attention for Spatiotemporal Gait Recognition](https://dl.acm.org/doi/10.1145/3743093.3771076)
+
+Yaxin Hu$^†$, **Qian Zhou$^†$**, Hua Zou\*, Fei Luo\*, Yuxuan Yang
+
+**<font color=blue>ACM MM Asia 2025 (Poster) </font>** \| [[**Paper**]](https://dl.acm.org/doi/10.1145/3743093.3771076)
+</div>
+</div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA</div><img src='images/paper/ESWA_2025.png' alt="sym" width="100%"></div></div>
@@ -62,7 +86,7 @@ Yaxin Hu$^†$, **Qian Zhou$^†$**, Hua Zou\*, Fei Luo\*, Yuxuan Yang
 
 [Region-aware metric learning for few-shot detection of counterfeit cigarettes from packaging images](https://www.sciencedirect.com/science/article/pii/S0957417425030726)
 
-**Qian Zhou**, Huanrou Ding, Chengzhe Li, Hua Zou\*, Chao Zhang, Ting Zhang
+Jianyu Chen, **Qian Zhou\***, Qin Zou, Chao Liang, Zengmin Xu, Gang Wu\*, Zhongyuan Wang
 
 **<font color=blue>Expert Systems with Applications </font>** \| [[**Paper**]](https://www.sciencedirect.com/science/article/pii/S0957417425030726)  [[**Code**]](https://github.com/liyiersan/cig_rec) 
 </div>
