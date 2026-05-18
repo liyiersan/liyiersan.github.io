@@ -86,7 +86,7 @@ Jianyu Chen, Qian Zhou\*, Qin Zou, Chao Liang, Zengmin Xu, Gang Wu\*, Zhongyuan 
 
 [Region-aware metric learning for few-shot detection of counterfeit cigarettes from packaging images](https://www.sciencedirect.com/science/article/pii/S0957417425030726)
 
-Jianyu Chen, **Qian Zhou\***, Qin Zou, Chao Liang, Zengmin Xu, Gang Wu\*, Zhongyuan Wang
+Qian Zhou, Huanrou Ding, Chengzhe Li, Hua Zou\*, Chao Zhang, Ting Zhang
 
 **<font color=blue>Expert Systems with Applications </font>** \| [[**Paper**]](https://www.sciencedirect.com/science/article/pii/S0957417425030726)  [[**Code**]](https://github.com/liyiersan/cig_rec) 
 </div>
