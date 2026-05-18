@@ -73,7 +73,7 @@ Yaxin Hu$^†$, **Qian Zhou$^†$**, Hua Zou\*, Fei Luo\*, Yuxuan Yang
 
 [A Robust 3D CNN with Pyramidal Attention for Spatiotemporal Gait Recognition](https://dl.acm.org/doi/10.1145/3743093.3771076)
 
-Jianyu Chen, Qian Zhou\*, Qin Zou, Chao Liang, Zengmin Xu, Gang Wu\*, Zhongyuan Wang.
+Jianyu Chen, **Qian Zhou\***, Qin Zou, Chao Liang, Zengmin Xu, Gang Wu\*, Zhongyuan Wang.
 
 **<font color=blue>ACM MM Asia 2025 (Poster) </font>** \| [[**Paper**]](https://dl.acm.org/doi/10.1145/3743093.3771076)
 </div>
