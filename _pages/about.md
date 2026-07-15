@@ -23,6 +23,8 @@ My research focuses on machine learning and deep learning, particularly in gait 
 
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉🎉 One papars was accepted by Information Fusion.
+- *2026.06*: &nbsp;🎉🎉 One papars was accepted by IEEE TMM.
 - *2026.04*: &nbsp;🎉🎉 One papars was accepted by FG 2026.
 - *2025.10*: &nbsp;🎉🎉 Two papars were accepted by BIBM 2025.
 - *2025.10*: &nbsp;🎉🎉 One papars was accepted by ACM MM Asia 2025.
@@ -34,6 +36,28 @@ My research focuses on machine learning and deep learning, particularly in gait 
 - *2022.06*: &nbsp;🎉🎉 One papar was accepted by MICCAI 2022. 
 
 # 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/paper/Information Fusion_2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GaitFuse: A Hierarchical Cross-Modal Alignment and Uncertainty-Aware Fusion Framework for Multi-Modal Gait Recognition](https://www.sciencedirect.com/science/article/pii/S1566253526004926)
+
+**Qian Zhou**, Hua Zou, Gang Wu, Chao Liang, Zhen Han, Zhongyuan Wang\*
+
+
+**<font color=blue>Information Fusion </font>** \| [[**Paper**]]([https://arxiv.org/abs/2605.12431](https://www.sciencedirect.com/science/article/pii/S1566253526004926)) 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FG 2026</div><img src='images/paper/TMM_2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Improving the Generalization of Gait Recognition with Limited Datasets](https://arxiv.org/abs/2605.12431)
+
+**Qian Zhou$^†$**, Xianda Guo$^†$, Jilong Wang, Chuanfu Shen, Zhongyuan Wang\*, Zhen Han, Qin Zou, Shiqi Yu. 
+**<font color=blue>IEEE TMM </font>** \| [[**Paper**]](https://arxiv.org/abs/2605.124) 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">FG 2026</div><img src='images/paper/FG_2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
