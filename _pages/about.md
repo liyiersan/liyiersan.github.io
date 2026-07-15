@@ -36,7 +36,7 @@ My research focuses on machine learning and deep learning, particularly in gait 
 - *2022.06*: &nbsp;🎉🎉 One papar was accepted by MICCAI 2022. 
 
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/paper/Information Fusion_2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion</div><img src='images/paper/Information Fusion_2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GaitFuse: A Hierarchical Cross-Modal Alignment and Uncertainty-Aware Fusion Framework for Multi-Modal Gait Recognition](https://www.sciencedirect.com/science/article/pii/S1566253526004926)
@@ -48,7 +48,7 @@ My research focuses on machine learning and deep learning, particularly in gait 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FG 2026</div><img src='images/paper/TMM_2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/paper/TMM_2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Improving the Generalization of Gait Recognition with Limited Datasets](https://arxiv.org/abs/2605.12431)
